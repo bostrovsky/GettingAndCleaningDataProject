@@ -1,4 +1,4 @@
-GettingAndCleaningDataProject
+Getting And Cleaning Data Project
 =============================
 This repo contains my submission for the Getting and Cleaning Data class project for the 
 Coursera/Johns Hopkins Data Science certificate program.  
