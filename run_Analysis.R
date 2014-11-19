@@ -12,10 +12,8 @@
 ##         average of each variable for each activity and each subject.
 
 
-library(tidyr)
-
 ##      1. Merges the training and the test sets to create one data set.
-setwd("~/Desktop/Getting & Cleaning Data/UCI HAR Dataset")
+
 ## Load activity names and features data files
 activity_labels <- read.table("./activity_labels.txt", quote="\"")
 features <- read.table("./features.txt", quote="\"")
