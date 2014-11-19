@@ -28,7 +28,7 @@ For each record in the dataset it is provided:
 * Its activity label.
 * An identifier of the subject who carried out the experiment.
 
-## Section 1. Merge the training and the test sets to create one data set.
+Section 1. Merge the training and the test sets to create one data set.
 
 After setting the source directory for the files, read into tables the data located in
 
@@ -47,7 +47,7 @@ Assign column names and merge to create one data set. There are 3 merged dataset
 * combinedTestData - all test data
 * allData  - overall data (combination of the 2 sets above)
 
-## Section 2. Extract only the measurements on the mean and standard deviation for each measurement.
+Section 2. Extract only the measurements on the mean and standard deviation for each measurement.
 
 * colNames - logical vector of heading names
 * subsetData - subset of allData with only mean and standard deviation for each measurement
